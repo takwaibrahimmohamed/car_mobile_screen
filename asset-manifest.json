@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/car_mobile_screen/static/css/main.5ac68d80.css",
+    "main.js": "/car_mobile_screen/static/js/main.93597a73.js",
+    "static/js/787.28cb0dcd.chunk.js": "/car_mobile_screen/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/car_mobile_screen/index.html",
+    "main.5ac68d80.css.map": "/car_mobile_screen/static/css/main.5ac68d80.css.map",
+    "main.93597a73.js.map": "/car_mobile_screen/static/js/main.93597a73.js.map",
+    "787.28cb0dcd.chunk.js.map": "/car_mobile_screen/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ac68d80.css",
+    "static/js/main.93597a73.js"
+  ]
+}
